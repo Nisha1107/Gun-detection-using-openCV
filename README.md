@@ -18,7 +18,7 @@ The aim of this project is to develop a system capable of identifying firearms i
 1. Clone the repository:
 
 ```bash
-
+git clone https://github.com/Nisha1107/Gun-detection-using-openCV
 Ensure you have Python installed on your system.
 Install the required Python libraries:
 
